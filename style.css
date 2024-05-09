@@ -28,6 +28,7 @@ h1 {
     font-weight: 300;
     font-size: 2.5rem;
     margin-top: 0;
+s
 }
 
 p {
@@ -187,8 +188,8 @@ nav a :focus {
     
     .home-about {
         background-image: url(./img/whoiam.jpg);
-        background-repeat: no-repeat;
-        padding-bottom: 10em;
+        background-size: cover ;
+        padding-bottom: 17em;
         
     }
 
